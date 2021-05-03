@@ -1,17 +1,10 @@
 <!DOCTYPE html>
-<html> 
-  <head>
-    <meta charset="utf-8">
-    <title></title>
-    
-    </head>
-    <body>
-    <script>
-    
-    document.write('hello');
-    
-    </script>
-    
-    <body>
-    
-    </html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+
+</body>
+</html>
